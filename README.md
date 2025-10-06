@@ -103,7 +103,7 @@ The project followed these key steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/AhsanNFt/Customer-Segmentation-Using-Unsupervised-Learning.git
+git clone https://github.com/Shilpachhatani/Customer-Segmentation-Using-Unsupervised-Learning.git
 
 
 # Navigate into the directory
@@ -124,5 +124,5 @@ Feel free to fork the repository, raise issues, or suggest improvements through 
 ## 📬 Contact
 
 For questions or suggestions:  
-- GitHub: `AhsanNFt`  
-- Email: syedahsan0991@gmail.com 
+- GitHub: `Shilpachhatani`  
+- Email: shilpachhatani669@gmail.com 
